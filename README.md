@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Hakkımda
 
-Merhaba! Ben hem arkaplan (Backend) mimarileri kuran hem de modern arayüzler tasarlayan bir geliştiriciyim. Aynı zamanda yapay zeka dünyasının sınırlarını zorlayan bir **AI Dreamer**'ım.
+Modern web uygulamaları ve yapay zeka entegrasyonu üzerine çalışan bir Full Stack geliştiriciyim.
 
 - 🔭 **Backend:** .NET ekosistemi ve Clean Architecture ile sağlam altyapılar kuruyorum.
 - 🎨 **Frontend:** React ve Modern JavaScript ile dinamik ve şık kullanıcı arayüzleri geliştiriyorum.
@@ -55,11 +55,11 @@ Yazılım geliştirme sürecimde kullandığım teknolojiler ve araçlar:
 
 <div align="center">
   <a href="https://github.com/FatmaBuseBorlu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FatmaBuseBorlu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   
   <a href="https://github.com/FatmaBuseBorlu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_GITHUB_KULLANICI_ADIN&layout=compact&theme=dracula&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaBuseBorlu&layout=compact&theme=dracula&langs_count=8"/>
   </a>
 </div>
 
