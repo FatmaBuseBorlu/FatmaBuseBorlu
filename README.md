@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Merhaba,%20Ben%20Salih&fontSize=50&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Merhaba,%20Ben%20Buse&fontSize=50&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
