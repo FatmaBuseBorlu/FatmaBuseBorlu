@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Full Stack Developer</h3>
+  <h3> Full Stack Developer</h3>
   <p>Modern Web Teknolojileri</p>
 </div>
 
@@ -13,9 +13,9 @@
 
 Modern web uygulamaları ve yapay zeka entegrasyonu üzerine çalışan bir Full Stack geliştiriciyim.
 
-- 🔭 **Backend:** .NET ekosistemi ve Clean Architecture ile sağlam altyapılar kuruyorum.
-- 🎨 **Frontend:** React ve Modern JavaScript ile dinamik ve şık kullanıcı arayüzleri geliştiriyorum.
-- 🤖 **Yapay Zeka:** Derin Öğrenme (Deep Learning) modelleri eğitiyor ve özel veri kümeleri (datasets) oluşturuyorum.
+-  **Backend:** .NET ekosistemi ve Clean Architecture ile sağlam altyapılar kuruyorum.
+-  **Frontend:** React ve Modern JavaScript ile dinamik ve şık kullanıcı arayüzleri geliştiriyorum.
+-  **Yapay Zeka:** Derin Öğrenme (Deep Learning) modelleri eğitiyor ve özel veri kümeleri (datasets) oluşturuyorum.
 
 ---
 
@@ -23,7 +23,7 @@ Modern web uygulamaları ve yapay zeka entegrasyonu üzerine çalışan bir Full
 
 Yazılım geliştirme sürecimde kullandığım teknolojiler ve araçlar:
 
-#### 🎨 Frontend Geliştirme
+####  Frontend Geliştirme
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,7 +32,7 @@ Yazılım geliştirme sürecimde kullandığım teknolojiler ve araçlar:
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-#### ⚙️ Backend & Veritabanı
+####  Backend & Veritabanı
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
