@@ -4,7 +4,6 @@
 
 <div align="center">
   <h3> Full Stack Developer</h3>
-  <p>Modern Web Teknolojileri</p>
 </div>
 
 ---
