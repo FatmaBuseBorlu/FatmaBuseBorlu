@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Merhaba,%20Ben%20Buse&fontSize=50&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </div>
-
 <div align="center">
   <h3> Full Stack Developer</h3>
 </div>
