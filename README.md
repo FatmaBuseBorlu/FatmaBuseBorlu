@@ -29,8 +29,6 @@ Yazılım geliştirme sürecimde kullandığım teknolojiler ve araçlar:
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
 
----
-
 ####  Frontend Geliştirme
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
