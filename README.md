@@ -1,46 +1,54 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Merhaba,%20Ben%20Buse&fontSize=50&fontColor=ffffff&fontAlignY=35" width="100%"/>
-</div>
-<div align="center">
-  <h3> Full Stack Developer</h3>
-</div>
+<h1 align="center">Hi, I'm Buse 👋</h1>
+<h3 align="center">Junior Full Stack .NET Developer</h3>
+
+<p align="center">
+  I build modern web applications with <strong>ASP.NET Core</strong>, <strong>C#</strong>, <strong>SQL</strong>, and <strong>React</strong>.
+  I am focused on backend development, clean project architecture, and user-friendly interfaces.
+</p>
 
 ---
 
-### 👨‍💻 Hakkımda
+## 👩‍💻 About Me
 
-Modern web uygulamaları ve yapay zeka entegrasyonu üzerine çalışan bir Full Stack geliştiriciyim.
+I am a Junior Full Stack Developer focused on building scalable and maintainable web applications.
 
--  **Backend:** .NET ekosistemi ve Clean Architecture ile sağlam altyapılar kuruyorum.
--  **Frontend:** React ve Modern JavaScript ile dinamik ve şık kullanıcı arayüzleri geliştiriyorum.
--  **Yapay Zeka:** Derin Öğrenme (Deep Learning) modelleri eğitiyor ve özel veri kümeleri (datasets) oluşturuyorum.
+- 🔹 **Backend:** ASP.NET Core, Web API, Entity Framework Core, SQL Server
+- 🔹 **Frontend:** React, JavaScript, HTML, CSS, Bootstrap
+- 🔹 **Architecture:** Clean Architecture, N-Tier Architecture, RESTful API design
+- 🔹 **Additional Interest:** AI, deep learning, and EEG-based emotion analysis
 
----
-
-### 🛠️ Teknoloji Yığınım
-Yazılım geliştirme sürecimde kullandığım teknolojiler ve araçlar:
-
-####  Backend & Veritabanı
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</div>
-
-####  Frontend Geliştirme
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div>
+I enjoy developing real-world projects, improving software structure, and learning modern development practices.
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/fatma-buse-borlu-36537519b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+## 🛠 Tech Stack
+
+### Backend & Database
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Concepts
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/fatma-buse-borlu-36537519b/)
+- GitHub: [FatmaBuseBorlu](https://github.com/FatmaBuseBorlu)
+- Email: fatmabuseborlu@gmail.com
+
+
+
